@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron": "^5.0.3",
+    "electron": "^7.2.4",
     "jquery": "^3.4.1",
     "music-metadata": "^4.1.1"
   }
